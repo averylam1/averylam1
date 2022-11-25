@@ -1,7 +1,6 @@
 ### Hi there 👋
-My name is Avery(Chon Wa) Lam.
+My name is Avery Lam.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averylam1&layout=compact)](https://github.com/averylam1/github-readme-stats)
 
 
 <!--
